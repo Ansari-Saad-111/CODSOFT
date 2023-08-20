@@ -12,6 +12,7 @@ int main() {
     cin >> n2;
 
     cout << "Select an operation: \n(1) for Addition \n(2) for Subtraction \n(3) for Multiplication \n(4) for Division "<<endl;
+    cout << "Enter your choice: ";
     cin >> op;
 
     switch (op) {
